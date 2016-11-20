@@ -1,0 +1,4 @@
+传递参数    http://www.cnblogs.com/strinkbug/p/5779531.html
+生命周期图  http://cn.vuejs.org/v2/guide/instance.html#生命周期图示
+路由跳转    http://www.jianshu.com/p/cb918fe14dc6
+路由官方文档 http://router.vuejs.org/zh-cn/essentials/dynamic-matching.html
