@@ -1,0 +1,28 @@
+{
+  "name": "vuetemplate",
+  "version": "1.0.0",
+  "description": "vue template",
+  "main": "app.js",
+  "dependencies": {
+    "vue-resource": "^1.0.3",
+    "vue": "^1.0.24",
+    "vue-router": "^0.7.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivihoo03/vueTemplate.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "ken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivihoo03/vueTemplate/issues"
+  },
+  "homepage": "https://github.com/vivihoo03/vueTemplate#readme"
+}
